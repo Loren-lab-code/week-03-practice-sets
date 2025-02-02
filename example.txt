@@ -1,0 +1,3 @@
+Hello, this is an example file.
+It contains lines of text.
+The purpose of this is to count the number of lines, words, and characters in this file.
